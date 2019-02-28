@@ -9,6 +9,8 @@ this is my second line change in branch 1
 
 changes in the temp checkout version
 
-chanes in the temp-extented  branch
 
+chanes in the temp-extented  branch
 changes in the master branch 
+Rebase:ex1 changing in new branch`
+ first rebase commit
