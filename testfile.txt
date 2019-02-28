@@ -8,3 +8,5 @@ this is second line changes in my master
 this is my second line change in branch 1
 
 changes in the temp checkout version
+
+chanes in the temp-extented  branch
