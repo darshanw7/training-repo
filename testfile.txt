@@ -12,3 +12,5 @@ changes in the temp checkout version
 chanes in the temp-extented  branch
 
 changes in the master branch 
+
+changes for the current my branch
